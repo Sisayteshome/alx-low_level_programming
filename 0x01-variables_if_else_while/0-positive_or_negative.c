@@ -3,7 +3,11 @@
 #include <time.h>
 
 #include <stdio.h>
-
+/**
+ * main print if number is pasitive, zero or negative
+ * return success 
+ *
+ */
 int main(void)
 
 {
